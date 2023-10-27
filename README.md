@@ -1,6 +1,6 @@
-Node js ans express rest server with typescript and mySql
+# Node js and express rest server with typescript and mySql
 
-# Dev
+## Dev
 
 1. Copy the ```.env.example``` and rename it to ```.env```
 2. Set your enviroment variables in the ```.env``` file.
